@@ -121,7 +121,7 @@ To contribute in MozUI by giving your ideas please go through [here](https://git
 * [Bhavana Singh](https://github.com/BH12ri)
 * [Khusboo Bindal](https://github.com/khushboo998)
 * [Aseem Srivastava](https://github.com/as3eem)
-* [Chirag](https://github.com/chiraggoyal0714)
+* [Chirag Goyal](https://github.com/chiraggoyal0714)
 * [Harshit Agrawal](https://github.com/hagrawal97-github)
 * [Sandeep](https://github.com/sandynigs)
 * [Avinash Verma](https://github.com/Adien7368)
